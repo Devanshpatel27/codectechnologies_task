@@ -1,0 +1,47 @@
+{
+  "questions": [
+    "hello",
+    "hi",
+    "what are your working hours",
+    "when are you open",
+    "how can i contact you",
+    "what is your email",
+    "where is your office",
+    "refund policy",
+    "track my order",
+    "cancel my order",
+    "shipping charges",
+    "delivery time",
+    "how to create account",
+    "how to reset password",
+    "payment methods",
+    "is cash on delivery available",
+    "how to contact support",
+    "where is my order",
+    "how to return product",
+    "do you offer discounts"
+  ],
+
+  "answers": [
+    "Hello! How can I help you today?",
+    "Hello! How can I help you today?",
+    "Our working hours are 9 AM to 6 PM, Monday to Saturday.",
+    "Our working hours are 9 AM to 6 PM, Monday to Saturday.",
+    "You can call us at +91 9876543210 or email support@example.com.",
+    "You can email us at support@example.com. We reply within 24 hours.",
+    "Our office is located in Ahmedabad, Gujarat, India.",
+    "You can request a refund within 7 days of delivery. Contact support to initiate.",
+    "Please provide your Order ID and we will share the latest tracking details.",
+    "Order cancellation is available before shipping. Go to My Orders to cancel.",
+    "Shipping is free on orders above ₹500. Below ₹500, a ₹49 fee applies.",
+    "Delivery takes 3–5 business days depending on your location.",
+    "Click 'Sign Up', enter your name, email and password, then verify your email.",
+    "Click 'Forgot Password' on the login page and follow the link sent to your email.",
+    "We accept UPI, Credit/Debit Cards, Net Banking, and Wallets like Paytm.",
+    "Yes! Cash on Delivery is available on orders up to ₹5,000.",
+    "You can reach support at +91 9876543210 or support@example.com.",
+    "Visit My Orders in your account or use the tracking link in your confirmation email.",
+    "To return a product, go to My Orders, select the item, and click 'Request Return'.",
+    "Yes! Subscribe to our newsletter or check the Offers page for latest discounts."
+  ]
+}
